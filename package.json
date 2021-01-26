@@ -1,0 +1,19 @@
+{
+  "name": "nextimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nexTimer.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaidonghai/nexTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaidonghai/nexTimer/issues"
+  },
+  "homepage": "https://github.com/gaidonghai/nexTimer#readme"
+}
